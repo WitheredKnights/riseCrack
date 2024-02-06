@@ -18,7 +18,7 @@ Damm thats a dope ass quote
 ## Installation 
 
 ### Step 1 : Download
- Download the `RC.zip` File from [Releases](https://github.com/PrimeTDMomega/riseCrack/releases/tag/1.0.0/)
+ Download the `RC.zip` File from [Releases](https://github.com/WitheredKnights/riseCrack/releases/tag/1.0.0)
  ### Step 2 : Extraction
  Extract the `RC.zip` file using software such as WinRAR or 7zip
  ### Step 3 : Installation

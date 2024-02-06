@@ -1,3 +1,10 @@
+RiseCrack will be released when:
+ - [lunarCrack](https://github.com/WitheredKnights/lunarCrack/) & [badlionCrack](https://github.com/WitheredKnights/badlionCrack/) hit 10 stars each
+ - Our [Discord](https://discord.gg/n4pYK7Bwhu) hits 100 members
+<br>
+Not required but also follow our github org @WitheredKnights :)
+
+
 ## What is RiseClient ?
 Rise Client is a cheat client for 1.8.9 Minecraft which is very popular and is dominant on Hypixel.
 

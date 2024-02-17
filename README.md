@@ -1,10 +1,3 @@
-RiseCrack will be released when:
- - [lunarCrack](https://github.com/WitheredKnights/lunarCrack/) & [badlionCrack](https://github.com/WitheredKnights/badlionCrack/) hit 10 stars each
- - Our [Discord](https://discord.gg/n4pYK7Bwhu) hits 100 members
-<br>
-Not required but also follow our github org @WitheredKnights :)
-
-
 ## What is RiseClient ?
 Rise Client is a cheat client for 1.8.9 Minecraft which is very popular and is dominant on Hypixel.
 
@@ -22,7 +15,7 @@ Damm thats a dope ass quote
  ### Step 2 : Extraction
  Extract the `RC.zip` file using software such as WinRAR or 7zip
  ### Step 3 : Installation
- Inside the extracted file their will be two folders one is `RiseCrack` put it in your `.minecraft/versions` folder, the other folder is named `libraries` put that just directly into your `.minecraft` folder.
+ Inside the extracted file their will be a folders named `Rise` put it in your `.minecraft/versions` folder.
  ### Step 4
  Open your Minecraft Launcher of choice (TLauncher, official launcher etc.) and in versions find the release that says either `RiseCrack` or `Rise Client 1.8.9`. Make sure to add `-noverify` to launcher settings before launching.
 <br>
